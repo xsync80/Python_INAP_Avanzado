@@ -1,0 +1,3 @@
+Documets -> Sería una fila -> Compuestos por clave-valor
+Coleccion Grupo de documentos
+Base de datos es un contenedor físico y lógico para colecciones.

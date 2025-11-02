@@ -1,0 +1,501 @@
+[{"COD":"ECP355534", "Nombre":"Total Nacional. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":16473, "T3_Variable":"Total Nacional", "Nombre":"Total Nacional", "Codigo":"00"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.5}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.5}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.5}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.5}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.5}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.5}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.5}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.5}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.5}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.5}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.5}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.5}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.5}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.5}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.5}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.51}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.52}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.53}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.54}
+]
+}
+,{"COD":"ECP355648", "Nombre":"Andalucía. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":8997, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Andalucía", "Codigo":"01"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.53}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.53}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.53}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.53}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.54}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.54}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.54}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.55}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.55}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.55}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.55}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.56}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.56}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.57}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.57}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.58}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.58}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.59}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.6}
+]
+}
+,{"COD":"ECP355647", "Nombre":"Aragón. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":8998, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Aragón", "Codigo":"02"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.39}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.39}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.39}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.39}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.39}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.39}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.39}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.39}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.39}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.39}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.4}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.4}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.4}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.42}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.44}
+]
+}
+,{"COD":"ECP355646", "Nombre":"Asturias, Principado de. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":8999, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Asturias, Principado de", "Codigo":"03"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.2}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.2}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.2}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.2}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.2}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.21}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.21}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.21}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.21}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.21}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.22}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.22}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.22}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.22}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.22}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.23}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.23}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.24}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.25}
+]
+}
+,{"COD":"ECP355645", "Nombre":"Balears, Illes. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9000, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Balears, Illes", "Codigo":"04"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.66}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.66}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.66}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.66}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.66}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.65}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.65}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.65}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.65}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.64}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.64}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.64}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.64}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.63}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.63}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.63}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.64}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.65}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.66}
+]
+}
+,{"COD":"ECP355644", "Nombre":"Canarias. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9001, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Canarias", "Codigo":"05"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.61}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.61}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.61}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.6}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.6}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.6}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.6}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.6}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.6}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.6}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.6}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.6}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.6}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.61}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.61}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.62}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.62}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.63}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.64}
+]
+}
+,{"COD":"ECP355643", "Nombre":"Cantabria. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9002, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Cantabria", "Codigo":"06"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.38}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.38}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.38}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.38}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.38}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.39}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.39}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.39}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.4}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.4}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.4}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.4}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.41}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.41}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.42}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.43}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.43}
+]
+}
+,{"COD":"ECP355642", "Nombre":"Castilla y León. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9003, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Castilla y León", "Codigo":"07"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.24}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.24}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.24}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.25}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.25}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.25}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.25}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.25}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.25}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.26}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.26}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.26}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.27}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.27}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.27}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.28}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.29}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.3}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.3}
+]
+}
+,{"COD":"ECP355641", "Nombre":"Castilla - La Mancha. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9004, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Castilla - La Mancha", "Codigo":"08"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.5}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.5}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.5}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.51}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.51}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.51}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.51}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.51}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.51}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.51}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.52}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.52}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.52}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.52}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.52}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.53}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.53}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.54}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.55}
+]
+}
+,{"COD":"ECP355640", "Nombre":"Cataluña. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9005, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Cataluña", "Codigo":"09"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.55}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.55}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.54}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.54}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.53}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.53}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.54}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.53}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.53}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.53}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.53}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.53}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.53}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.53}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.53}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.54}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.55}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.56}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.57}
+]
+}
+,{"COD":"ECP355639", "Nombre":"Comunitat Valenciana. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9006, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Comunitat Valenciana", "Codigo":"10"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.48}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.48}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.47}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.47}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.47}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.47}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.47}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.47}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.46}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.46}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.46}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.46}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.46}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.46}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.46}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.47}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.47}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.48}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.49}
+]
+}
+,{"COD":"ECP355638", "Nombre":"Extremadura. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9007, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Extremadura", "Codigo":"11"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.34}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.34}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.35}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.35}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.35}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.36}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.36}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.36}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.37}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.37}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.38}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.38}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.39}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.39}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.4}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.41}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.41}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.42}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.43}
+]
+}
+,{"COD":"ECP355637", "Nombre":"Galicia. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9008, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Galicia", "Codigo":"12"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.39}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.39}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.39}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.39}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.4}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.4}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.4}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.4}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.41}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.41}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.42}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.42}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.42}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.43}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.44}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.45}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.45}
+]
+}
+,{"COD":"ECP355636", "Nombre":"Madrid, Comunidad de. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9009, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Madrid, Comunidad de", "Codigo":"13"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.61}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.61}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.61}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.61}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.6}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.6}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.6}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.59}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.58}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.58}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.58}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.59}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.59}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.59}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.58}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.59}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.6}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.61}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.62}
+]
+}
+,{"COD":"ECP355635", "Nombre":"Murcia, Región de. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9010, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Murcia, Región de", "Codigo":"14"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.72}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.72}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.72}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.72}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.73}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.73}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.74}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.74}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.74}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.75}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.75}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.75}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.76}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.76}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.76}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.76}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.77}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.78}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.79}
+]
+}
+,{"COD":"ECP355634", "Nombre":"Navarra, Comunidad Foral de. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9011, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Navarra, Comunidad Foral de", "Codigo":"15"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.51}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.51}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.51}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.51}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.52}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.52}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.52}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.52}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.52}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.52}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.53}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.53}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.53}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.53}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.53}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.53}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.54}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.55}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.56}
+]
+}
+,{"COD":"ECP355633", "Nombre":"País Vasco. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9012, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"País Vasco", "Codigo":"16"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.33}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.33}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.34}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.34}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.34}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.34}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.34}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.34}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.34}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.35}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.35}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.35}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.35}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.35}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.35}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.36}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.37}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.38}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.39}
+]
+}
+,{"COD":"ECP355632", "Nombre":"Rioja, La. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9013, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Rioja, La", "Codigo":"17"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":2.35}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":2.35}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":2.35}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":2.35}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":2.35}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":2.36}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":2.36}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":2.36}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":2.36}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":2.36}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":2.37}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":2.37}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":2.37}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":2.37}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":2.38}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":2.38}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":2.39}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":2.39}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":2.4}
+]
+}
+,{"COD":"ECP355631", "Nombre":"Ceuta. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":9015, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Ceuta", "Codigo":"18"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":3.11}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":3.11}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":3.12}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":3.12}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":3.12}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":3.13}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":3.14}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":3.14}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":3.14}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":3.15}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":3.16}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":3.16}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":3.17}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":3.18}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":3.19}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":3.2}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":3.21}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":3.23}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":3.25}
+]
+}
+,{"COD":"ECP355630", "Nombre":"Melilla. Tamaño medio del hogar. Número. ", "T3_Unidad":"Hogares", "T3_Escala":" ", "MetaData":[{"Id":8995, "T3_Variable":"Comunidades y Ciudades Autónomas", "Nombre":"Melilla", "Codigo":"19"}
+,{"Id":8673, "T3_Variable":"Hogares y personas", "Nombre":"Tamaño medio del hogar", "Codigo":""}
+,{"Id":11879, "T3_Variable":"Tipo de dato", "Nombre":"Número", "Codigo":""}
+]
+, "Data":[{"Fecha":"2025-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2025, "Valor":3.16}
+,{"Fecha":"2025-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2025, "Valor":3.17}
+,{"Fecha":"2025-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2025, "Valor":3.17}
+,{"Fecha":"2024-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2024, "Valor":3.18}
+,{"Fecha":"2024-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2024, "Valor":3.18}
+,{"Fecha":"2024-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2024, "Valor":3.19}
+,{"Fecha":"2024-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2024, "Valor":3.19}
+,{"Fecha":"2023-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2023, "Valor":3.19}
+,{"Fecha":"2023-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2023, "Valor":3.2}
+,{"Fecha":"2023-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2023, "Valor":3.2}
+,{"Fecha":"2023-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2023, "Valor":3.21}
+,{"Fecha":"2022-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2022, "Valor":3.21}
+,{"Fecha":"2022-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2022, "Valor":3.21}
+,{"Fecha":"2022-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2022, "Valor":3.23}
+,{"Fecha":"2022-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2022, "Valor":3.25}
+,{"Fecha":"2021-10-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de octubre de", "Anyo":2021, "Valor":3.27}
+,{"Fecha":"2021-07-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de julio de", "Anyo":2021, "Valor":3.28}
+,{"Fecha":"2021-04-01T00:00:00.000+02:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de abril de", "Anyo":2021, "Valor":3.31}
+,{"Fecha":"2021-01-01T00:00:00.000+01:00", "T3_TipoDato":"Provisional", "T3_Periodo":"1 de enero de", "Anyo":2021, "Valor":3.34}
+]
+}
+]

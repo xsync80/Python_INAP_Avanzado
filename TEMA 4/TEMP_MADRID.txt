@@ -1,0 +1,13 @@
+Mes TMedia(ºC) TMin(ºC) TMax(ºC) Precipitación(mm) Humedad(%) DíasLluviosos(días) HorasDeSol(horas)
+Enero 4.8 0.9 9.5 41 77% 5 5.7
+Febrero 6 1.4 11.4 34 69% 4 6.8
+Marzo 9.2 3.8 15 40 60% 4 8.1
+Abril 12.2 6.4 17.9 47 57% 6 9.4
+Mayo 16.7 10.3 22.6 39 48% 5 11.5
+Junio 26 18.8 32.4 6 35% 1 13.0
+Julio 26 18.8 32.4 6 28% 1 13.1
+Agosto 25.6 18.5 31.9 8 30% 2 12.1
+Septiembre 20.9 14.8 26.8 22 41% 3 10.4
+Octubre 15.1 10.2 20.3 61 60% 5 7.8
+Noviembre 8.6 4.7 13.2 55 72% 5 6.1
+Diciembre 5.5 1.8 10.1 46 77% 5 5.7
